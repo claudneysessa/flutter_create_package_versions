@@ -153,7 +153,7 @@
     },
     {
       "name": "vm_service",
-      "rootUri": "file:///C:/Users/claud/.puro/shared/pub_cache/hosted/pub.dev/vm_service-14.2.4",
+      "rootUri": "file:///C:/Users/claud/.puro/shared/pub_cache/hosted/pub.dev/vm_service-14.2.5",
       "packageUri": "lib/",
       "languageVersion": "3.3"
     },
@@ -164,10 +164,10 @@
       "languageVersion": "3.5"
     }
   ],
-  "generated": "2024-11-19T14:12:51.448325Z",
+  "generated": "2024-11-19T14:12:57.186683Z",
   "generator": "pub",
-  "generatorVersion": "3.5.0",
+  "generatorVersion": "3.5.1",
   "flutterRoot": "file:///C:/Users/claud/fvm/default",
-  "flutterVersion": "3.24.0",
+  "flutterVersion": "3.24.1",
   "pubCache": "file:///C:/Users/claud/.puro/shared/pub_cache"
 }
